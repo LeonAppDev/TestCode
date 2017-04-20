@@ -12,14 +12,6 @@ namespace PracticeTest
         {
             Program p = new Program();
 
-            int[] numbers = { 9,5,6,3,4,21,1/5};
-
-            Assert.AreEqual(48,p.Summation(numbers));
-
-            string s = "abc";
-
-            //Assert.AreEqual(string[])({ "a", "b", "c"},p.combination(s));
-
 
             string test1 = "anna";
             string test2 = "aaaaaaaa";
