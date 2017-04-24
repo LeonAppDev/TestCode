@@ -1,3 +1,5 @@
 Including two files
-1 Program.cs 
-2 UnitTest1.cs
+1 Program.cs is the funtional program
+2 UnitTest1.cs is unit test code
+
+Develop with Visual Studio 2015 and build unit test using unit test project provided by this IDE
