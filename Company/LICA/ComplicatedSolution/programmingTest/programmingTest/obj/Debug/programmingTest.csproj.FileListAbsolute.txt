@@ -1,0 +1,11 @@
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\programmingTest.exe.config
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\NLog.config
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\programmingTest.exe
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\programmingTest.pdb
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\NLog.dll
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\nunit.framework.dll
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\NLog.xml
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\bin\Debug\nunit.framework.xml
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\obj\Debug\programmingTest.csprojResolveAssemblyReference.cache
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\obj\Debug\programmingTest.exe
+C:\PrivateAppDev\Company\LICA\programmingTest\programmingTest\obj\Debug\programmingTest.pdb
