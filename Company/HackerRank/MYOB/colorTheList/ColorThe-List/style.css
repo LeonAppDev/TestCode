@@ -1,0 +1,27 @@
+/* Base styles */
+ul, .summary {
+  width: 400px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin-bottom: 3px;
+  border: 1px solid black;
+  list-style: none;
+}
+
+/* Add your styles here */
+.odd {
+  color: #86d5ff
+}
+
+.highlighted {
+  color: #eccb42
+}
+
+li{
+	
+	text-align:right
+}
